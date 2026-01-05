@@ -34,8 +34,7 @@ Durante o curso, foram estudados os seguintes tópicos:
 - **Plataforma:** Alura  
 - **Carga horária:** 8h  
 
-📎 **Certificado:**  
-https://cursos.alura.com.br/certificate/39448274-0e78-4ed7-99d0-359fea5d4c91?lang
+📎 **Certificado:** [Acessar certificado](https://cursos.alura.com.br/certificate/39448274-0e78-4ed7-99d0-359fea5d4c91?lang)
 
 ---
 
